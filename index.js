@@ -1,4 +1,10 @@
 const hello = () => {
-    return "hello"
-}
-module.exports = hello;
+  return "hello";
+};
+const add = (a , b) => {
+  return a + b;
+};
+module.exports = {
+  hello: hello,
+  add: add,
+};
