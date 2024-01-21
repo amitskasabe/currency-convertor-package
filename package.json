@@ -1,12 +1,21 @@
 {
   "name": "@codeseed/currency",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple currency conversion package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["currency", "conversion", "finance"],
+  "author": "Your Name",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitskasabe/currency-convertor-package"
+  },
+  "bugs": {
+    "url": "https://github.com/amitskasabe/currency-convertor-package/issues"
+  },
+  "homepage": "https://github.com/amitskasabe/currency-convertor-package"
+  
 }
